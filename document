@@ -1,0 +1,5 @@
+Need to build a CI/CD pipeline for springboot application 
+gitrepo: https://github.com/springframeworkguru/springbootwebapp
+Select the classic editor and then select the source as github and give the details of git repository then select configuration as code (yaml)
+Then give the yaml file present in the project
+Then save and run the build.
