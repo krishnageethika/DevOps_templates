@@ -20,7 +20,7 @@ variables:
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
   
-  servicename: Node-yml
+#   servicename: Node-yml
 
 stages:
 - stage: Build
